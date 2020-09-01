@@ -1,0 +1,143 @@
+var;Castellano;English;Català
+menu_home;Inicio;Home;Inici
+menu_comp;Comparativa mundial;World comparison;Comparativa mundial
+menu_compc;Tasa de casos acumulados;Cumulative attack rate;Taxa de casos acumulats
+menu_compc2;Tasa de casos incidentes;Daily attack rate;Taxa de casos incidents
+menu_compm;Tasa de mortalidad acumulada;Cumulative pop. fatality rate;Taxa de mortalitat acumulada
+menu_compm2;Tasa de mortalidad diaria;Daily pop. fatality rate;Taxa de mortalitat diària
+menu_compl;Tasa de letalidad acumulada;Cummulative case fatality rate;Taxa de letalitat acumulada
+menu_compl2;Tasa de letalidad diaria;Daily case fatality rate;Taxa de letalitat diària
+menu_compr;Número básico de reproducción ;Basic reproduction number;Nombre reproductiu bàsic
+menu_cs;Específico del país;Country specific;Específic del país
+menu_res;Proyecciones;Projections;Projeccions
+menu_cas_ac;Casos activos;Active cases;Casos actius
+menu_cas_inc;Casos incidentes diarios;Daily incident cases;Casos incidents diaris
+menu_mort_inc;Mortalidad diaria;Daily mortality;Mortalitat diaria
+menu_icu;UCI;ICU;UCI
+menu_mort;Mortalidad acumulada;Cumulative mortality;Mortalitat acumulada
+menu_leta;Tasa de letalidad;Case fatality rate;Taxa de letalitat
+menu_leta2;Letalidad por edad;Fatality by age;Letalitat per edat
+menu_casl;Tasa de letalidad;Fatality rate;Taxa de letalitat
+menu_casl2;Tasa de letalidad por edad;Fatality rate by age;Taxa de letalitat per edat
+menu_int;Intervención;Intervention;Intervenció
+menu_casi;Casos incidentes acumulados;Cumulative incident cases;Casos incidents acumulats
+menu_icui;UCI;ICU;UCI
+menu_morti;Mortalidad;Mortality;Mortalitat
+menu_met;Metodología;Methodology;Metodologia
+menu_other;Otras aplicaciones;Other app;Altres aplicatius 
+menu_ab;Información;About;Informació
+title_cas;Proyección casos hasta ;Cases projection until ;Projecció de casos fins a
+title_icu;Proyección UCI hasta ;ICU projection until ;Projecció UCI fins a
+down_report;Descarga el informe de UCI diario;Download ICU daily report;Descarrega l'informe diari
+select_region;Selecciona la comunidad autónoma;Select region;Tria una comunitat autònoma
+title_mort;Proyección mortalidad hasta;Deaths Projections until ;Projecció de mortalitat fins a
+select_all;Todas;All regions;Totes
+spain;España;Spain;Espanya
+down;Descargando;Downloading;Descarregant
+down_mess;(la operación podria tardar unos segundos);(the operation could last some seconds);(l'operació podria trigar uns segons)
+date;Fecha;Date;Data
+obs;Observados;Observed;Observats
+exp;Modelo 1;Model 1;Model 1
+exp_qua;Modelo;Model;Model
+icu_admission;Ingresos UCI;ICU admissions;Ingressos UCI
+from;De;From;De
+source;Fuente datos;Data source;Font de dades
+beds_icu;Camas UCI 2017;ICU beds 2017;Llits UCI 2017
+title_casi;Evaluación intervención en casos hasta;Assessment intervention on cases until;Evaluació intervenció en casos fins a
+title_icui;Evaluación intervención en ingresos a UCI hasta;Assessment intervention on ICU admissions until;Evaluació intervenció en ingressos a UCI fins a
+title_morti;Evaluación intervención en fallecidos hasta;Assessment intervention on mortality until;Evaluació intervenció en morts fins a
+exp1;Tendencia sin confinamiento;Trend with non lockdown;Tendència sense confinamient
+exp2;Tendencia con confinamiento parcial;Trend with partial lockdown;Tendència confinamient parcial
+exp3;Tendencia con confinamiento total;Trend with total lockdown;Tendència confinamient total
+exp4;Tendencia vuelta confinamiento parcial;Trend with back to partial lockdown;Tendència retorn confinamient parcial
+exp5;Tendencia con inicio desconfinamiento;Trend with openning start;Tendència inici desconfinamient
+ld;Confinamiento;Lockdown ;Confinament 
+la;Apertura;Opening;Apertura
+Pre1;Sin confinamiento;Non lockdown;Sense confinamient
+Pre2;Confinamiento parcial;Partial lockdown;Confinament parcial
+Post;Confinamiento total;Total lockdown;Confinament total
+PostPost;Vuelta al confinamiento parcial;Back to partial lockdown;Retorn al confinament parcial
+PostPost2;Inicio desconfinamiento;Opening start;Inici desconfinamient
+IR;Incremento medio por dia en %;Per day % mean increase;Increment mitjà per dia en %
+obs1;Antes;Before;Abans
+obs2;Después;After;Després
+new_casi;Casos diarios;Daily cases;Casos diaris
+new_icui;Nuevos ingresos a UCI diarios;New daily ICU admissions;Nous ingresos diaris a UCI
+new_morti;Fallecidos diarios;Daily deaths;Morts diàries
+menu_age;Proyecciones por edad;Projections by age;Projeccions per edat
+title_casa;Proyección casos por edad hasta;Cases projection by age until;Projecció de casos per edat fins a 
+title_cas_ac;Proyección casos activos hasta;Active cases projection until;Projecció de casos actius fins a 
+title_cas_inc;Proyección casos incidentes hasta;Incident cases projection until;Projecció de casos incidents fins a
+title_mort_inc;Proyección mortalidad incidente hasta;Incident mortality projection until;Projecció de mortalitat incident fins a
+title_icua;Proyección ingresos a UCI por edad hasta;ICU admission projection by age until;Projecció ingressos a UCI per edat fins a 
+title_morta;Proyección fallecidos por edad hasta;Deaths projections by age until;Projecció morts per edad fins a 
+mod_qua;Modelo cuadrático;Quadratic model;Model quadràtic
+age_group;Grupo de edad;Age group;Grup d'edat
+title_casl;Tasa de letalidad hasta;Fatality rate until;Taxa de letalitat  fins
+title_casl2;Tasa de letalidad por edad hasta;Fatality rate by age until;Taxa de letalitat per edat fins
+eix_casl;Tasa de letalidad (%);Fatality rate  (%);Taxa de letalitat  (%)
+inf;Momento infección estimado en casos observados;Estimated infected momentum in observed cases;Moment infecció estimat en casos observats
+inf2;Momento infección estimado en casos predidos;Estimated infected momentum in predicted cases;Moment infecció estimat en casos predits
+diagno;Diagnosticados;Diagnosed;Diagnosticats
+menu_inf;Momento infección estimado;Estimated infection time;Moment infecció estimat
+menu_casf;Casos;Cases;Casos
+new_casf;Casos diarios;Daily cases;Casos diaris
+infcum;Infectados acumulados;Cumulate infected;Infectats acumulats
+title_casf;Casos diagnosticados hasta;Diagnosed cases until;Diagnosticats fins a
+menu_rmort;Registro de mortalidad;Mortality register;Registre de mortalitat
+menu_rmorts;Fallecidos;Decesed;Morts
+menu_rmortge;Fallecidos por grupos de edad;Decesed by age;Morts per grups d'edat
+title_rmorts;Fallecidos por todas las causas hasta;All cause decesed until;Morts per totes les causes fins
+esp_mort;Mortalidad esperada;Expected mortality;Mortalitat esperada
+obs_mort;Mortalidad observada;Observed mortality;Mortalitat observada
+select_edat;Selecciona grupo de edad;Select age group;Tria grup d'edat
+title_rmortge;Fallecidos por todas las causas hasta;All cause decesed until;Morts per totes les causes fins
+nota;Desde 4 de marzo 2020;Since march 4th  2020;Des del 4 de març 2020
+1mort;Fecha de la 1a muerte por coronavirus;Date of 1st coronavirus death ;Data de la 1a mort per coronavirus
+expi;Modelo ;Model;Model
+expi_qua;Modelo + dia semana;Model + week day;Model + dia setmana
+menu_rmortsCCAA;Razón de mortalidad;Mortality ratio;Raó de mortalitat
+title_rmortsCCAA;Razon de mortalidad (observados/esperados) ;Mortality ratio (observed/expected) by CCAA;Raó de mortalitat (observats/esperats)
+sexH;Hombres;Men;Homes
+sexD;Mujeres;Women;Dones
+t_cas;Tasa de casos acumulados por 100.000 habitantes en;Cumulated cases rate by 100.000 population in;Taxa de casos acumulats per 100.000 habitants a
+t_mort;Tasa de muertes acumuladas por 100.000 habitantes en;Cumulated mortality rate by 100.000 population in;Taxa de morts acumulats per 100.000 habitants a
+t_heal;Total de recuperados;Total healed in;Total de recuperats a
+t_rate;Tasa de letalidad en  ;Case fatality rate in;Taxa de letalitat a
+tg_cas;Tasa de casos globales acumulados por 100.000 habitantes;Cumulated global cases rate by 100.000 population ;Taxa de casos globals acumulats per 100.000 habitants
+tg_mort;Tasa de muertes globales acumuladas por 100.000 habitantes;Cumulated global mortality rate by 100.000 population;Taxa de morts globals acumulades per 100.000 habitants
+tg_rate;Tasa de letalidad global;Global case fatality rate;Taxa de letalitat global
+plot;Gráfico;Plot;Gràfic
+coef;Evolución coeficientes;Coefficients evolution;Evolució dels coeficients
+mod_l;Modelo lineal;Linear model;Model linial
+mod_c;Modelo cúbico;Cubic model;Model cúbic
+mod_quar;Modelo cuártico;Quartic model;Model quàrtic
+day;Dias;Days;Dies
+ci;IC 95%;95% CI;IC 95%
+spainoe;(O/E) España;(O/E) Spain;(O/E) Espanya
+menu_r0;Número básico de reproducción;Basic reproduction number ;Nombre reproductiu bàsic
+title_r0;Índice R hasta ;R index until;Índex R fins a 
+r0_obs;Estimación R con incidencia observada;R estimation from observed incidence;Estimació R amb incidència observada
+r0_esp;Estimación R con incidencia esperada;R estimation from expected incidence;Estimació R amb incidència esperada
+indr;Índice R=1;R index=1;Index R=1
+error;Error del modelo;Model error;Error del model
+mod_4;Modelo 4º;4th model;Model 4º
+title_compc;Tasa de casos acumulados por 100.000 habitantes;Cumulated cases rate by 100.000 population;Taxa de casos acumulats per 100.000 habitants
+select_comp;Selecciona los paises a comparar;Select countries to compare;Selecciona els països a comparar
+text_compc;Tasa de casos;Case rate;Taxa de casos
+yaxis_compc;Tasa de casos acumulados/100.000;Cumulated cases rate/100.000;Taxa de casos acumulats/100.000
+change_axis;En función de los días desde el primer día con más de 50 casos;In function of the days since the first day with more than 50 cases;En funció dels dies des del primer dia amb més de 50 casos
+days;Dias desde el primer día con más de 50 casos;Days since the first day with more than 50 cases;Dies des del primer dia amb més de 50 casos
+warn;Alguno de los paises seleccionados no tiene más de 50 casos;Some of the selected countries don't have more than 50 cases;Algun dels països seleccionats no té més de 50 casos
+warn1;Los siguientes paises seleccionados;The following selected countries;Els següents països seleccionats
+warn2;no tienen más de 50 casos;don't have more than 50 cases;no tenen més de 50 casos
+title_compc2;Tasa de casos diarios por 100.000 habitantes;Daily cases rate by 100.000 population;Taxa de casos incidents per 100.000 habitants
+yaxis_compc2;Tasa de casos diarios/100.000;Daily cases rate/100.000;Taxa de casos incidents/100.000
+title_compm;Tasa de mortalidad acumulada por 100.000 habitantes;Cumulated mortality rate by 100.000 population;Taxa de mortalitat acumulada per 100.000 habitants
+text_compm;Tasa de mortalidad;Mortality rate;Taxa de mortalitat
+yaxis_compm;Tasa de mortalidad acumulada/100.000;Cumulated mortality rate/100.000;Taxa de mortalitat acumulada/100.000
+title_compm2;Tasa de mortalidad diaria por 100.000 habitantes;Daily mortality rate by 100.000 population;Taxa de mortalitat diària per 100.000 habitants
+yaxis_compm2;Tasa de mortalidad diaria/100.000;Daily mortality rate/100.000;Taxa de mortalitat diària/100.000
+title_compl;Tasa de letalidad acumulada;Cummulated case fatality rate;Taxa de letalitat acumulada
+title_compl2;Tasa de letalidad diaria;Daily case fatality rate;Taxa de letalitat diària
+log_scale;Escala logarítmica;Log scale;Escala logarítmica
